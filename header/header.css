@@ -1,0 +1,33 @@
+header{
+    padding: 15px;
+    background-color: pink;
+    border-radius: 10px;
+    width: 100%;
+}
+h1{
+    font-family: Cabin;
+    color: blueviolet;
+    text-align: center;
+}
+#connexion{
+    font-family: Cabin;
+    text-align: right;
+}
+#logo{
+    max-width: 10%;
+    /*height: auto;
+    margin-left: 20px;
+    margin-right: auto;*/
+}
+
+#menu{
+    background-color: lightblue;
+    font-family: Cabin;
+    text-align: center;
+    border: 1px solid blueviolet;
+    border-radius: 10px;
+    width: 100%;
+
+}
+td:hover {background-color: yellow;}
+
