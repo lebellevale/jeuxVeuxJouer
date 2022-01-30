@@ -1,60 +1,10 @@
-*{
-    margin:0;
-    padding: 0;
-}
+@import "basis.css";
+@import "nav.css";
+@import "header.css";
+@import "footer.css";
+@import "imgs.css";
+@import "titles.css";
 
-body * {
-    padding: 0.4em;
-    font-family: 'Supermercado One', cursive;
-    text-align: center;
-}
-header, .hor-box {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: hsl(320, 70%, 85%);
-    border-radius: 1em;
-}
-
-h1{
-    font-family: 'Neonderthaw', cursive;
-    color: hsl(273, 51%, 50%);
-    font-size: 4em;
-}
-header h1 {
-    margin:0;
-    opacity: 0.9;
-}
-footer {
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background-color: hsl(320, 50%, 85%);
-}
-nav {
-    background-color: lightblue;
-    text-align: center;
-    border: 1px solid blueviolet;
-    border-radius: 10px;
-}
-
-nav *:hover {
-    background-color: lightyellow;
-    border-radius:0.5em;
-}
-
-nav > a {
-    text-decoration: none;
-}
-
-
-
-img {
-    /* Bordure fine autour de l'image */
-    border: 1px solid blueviolet;
-    padding: 0;
-}
 
 .logo-img {
     max-width: 20em;

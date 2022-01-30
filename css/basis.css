@@ -1,0 +1,10 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+body * {
+    padding: 0.4em;
+    font-family: 'Supermercado One', cursive;
+    text-align: center;
+}

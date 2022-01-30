@@ -1,0 +1,5 @@
+img {
+    /* Bordure fine autour de l'image */
+    border: 1px solid blueviolet;
+    padding: 0;
+}
