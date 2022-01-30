@@ -11,3 +11,11 @@ header h1 {
     margin:0;
     opacity: 0.9;
 }
+
+.logo-img {
+    max-width: 20em;
+}
+
+#connectionArea {
+    width: 20em;
+}
